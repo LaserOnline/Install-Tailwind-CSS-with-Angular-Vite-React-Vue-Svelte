@@ -1,6 +1,6 @@
 
 ## Install Tailwind CSS with Vite React, Vue, Svelte
-[Tailwind](https://tailwindcss.com/docs/guides/vite)
+[React Tailwind](https://tailwindcss.com/docs/guides/vite)
 
 
 Create your project
@@ -48,3 +48,5 @@ App.jsx
       hello world!
   </h1>
 ```
+
+---
