@@ -41,7 +41,7 @@ Start your build process
   npm run dev
 ```
 
-App.jsx  
+Test
 ```bash
   <h1 className="text-3xl font-bold underline">
       hello world!
