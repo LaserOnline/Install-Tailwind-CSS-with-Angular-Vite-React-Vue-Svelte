@@ -1,6 +1,6 @@
 
 ## Install Tailwind CSS with Vite React, Vue, Svelte
-[React Tailwind](https://tailwindcss.com/docs/guides/vite)
+[Vite React Vue Svelte Tailwind](https://tailwindcss.com/docs/guides/vite)
 
 
 Create your project
@@ -20,8 +20,7 @@ tailwind.config.js
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
+    './index.html', './src/**/*.{vue,js,ts,jsx,tsx,svelte}'
   ],
   theme: {
     extend: {},
