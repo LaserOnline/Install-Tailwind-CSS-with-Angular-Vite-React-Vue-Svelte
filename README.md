@@ -1,5 +1,5 @@
 
-## Install Tailwind CSS with Vite React, Vue, Svelte
+## Install Tailwind CSS with Angular Vite React, Vue, Svelte
 [Angular Vite React Vue Svelte Tailwind](https://tailwindcss.com/docs/guides/vite)
 
 
